@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfe63736e5c75c8d7d8cb2ee7e3010472d54a9fa221366d8439eb3aee007e13cc",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xfe63736e5c75c8d7d8cb2ee7e3010472d54a9fa221366d8439eb3aee007e13cc",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Memu Mob",
+  "SYMBOL": "MEMU",
+  "MAX_SUPPLY": 7000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/memu-mob",
+  "SHOW_BACKGROUND": true
+}
